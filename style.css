@@ -1,0 +1,50 @@
+/* CSS files add styling rules to your content */
+
+body {
+   border-radius: 25px;
+  
+  background-color:#e8e8; 
+  
+  border-style: dotted;
+  margin: 25px;
+  padding: 25px;
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #9d65c9;
+}
+
+h3 {
+  font-style: italic;
+  color: #7d0633;
+}
+
+.step{
+  font-family: "Lucida Console", Courier, monospace;
+  color: #742392;
+}
+
+img{
+  
+  width: 50%;
+  border: 3px solid lightblue;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+iframe{
+  width: 50%;
+  border: 3px solid purple;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+ 
